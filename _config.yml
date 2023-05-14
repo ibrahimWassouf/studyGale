@@ -8,3 +8,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+domain: ibrahimWassouf.github.io
+url: https://ibrahimWassouf.github.io
+baseurl: studyGale
