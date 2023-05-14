@@ -6,8 +6,8 @@
     <link rel="stylesheet" href={{"assets/css/styles.css" | relative_url}}>
   </head>
   <body>
-    <div class="main-heading">
-      <h1><a href="{{site.baseurl}}/" title="Home">Study Gale</a></h1>
+    <div class="masthead">
+      <h1 {% if page.name == 'index.html' %}class="masthead-hidden"{% endif %}><a href="{{site.baseurl}}/" title="Home">Study Gale</a></h1>
     </div>
     {{content}}
   </body>
