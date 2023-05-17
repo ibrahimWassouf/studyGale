@@ -1,13 +1,15 @@
-html, body {
-  margin: 1em 5em;
-  padding: 0;
+html {
+  margin: 1rem;
   overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 body {
-  background-color: 255 255 255;
+  background-color: 253 253 253;
   color: black;
-  max-width: 38rem;
+  max-width: 40rem;
   font-family: "Lato";
   font-size: 22px;
 }
@@ -44,7 +46,18 @@ a:hover {
 }
 
 .post-header {
-  font-size: 20px;
+  font-size: 30px;
+}
+
+.post-title {
+  width: 100%;
+  margin: 0;
+  flex-basis: 100%;
+  flex: 1 1 0;
+}
+
+.post-title h1 {
+  font-size: 3rem;
 }
 
 #mainPostList {
