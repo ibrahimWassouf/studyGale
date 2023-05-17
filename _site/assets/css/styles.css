@@ -1,5 +1,5 @@
 html, body {
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow-x: hidden;
 }
@@ -7,7 +7,7 @@ html, body {
 body {
   background-color: 255 255 255;
   color: black;
-  max-width: 28rem;
+  max-width: 38rem;
 }
 
 a {
@@ -25,6 +25,10 @@ a:hover {
 
 .masthead-hidden {
   display: none;
+}
+
+#mainPostList {
+  list-style-type: none;
 }
 
 /*# sourceMappingURL=styles.css.map */
