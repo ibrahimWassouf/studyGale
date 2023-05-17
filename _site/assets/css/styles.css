@@ -1,5 +1,5 @@
 html, body {
-  margin: auto;
+  margin: 1em 5em;
   padding: 0;
   overflow-x: hidden;
 }
@@ -10,10 +10,6 @@ body {
   max-width: 38rem;
   font-family: "Lato";
   font-size: 22px;
-}
-
-header h1 {
-  font-size: 48px;
 }
 
 a {
@@ -29,8 +25,22 @@ a:hover {
   color: green;
 }
 
-.index-header {
+.hidden-header {
   display: none;
+}
+
+.index-header {
+  margin: 5rem 0;
+  padding: 5rem 0;
+  border-bottom: 1px solid black;
+}
+
+.index-header h1 {
+  font-size: 5rem;
+}
+
+.index-header p {
+  font-size: 1em;
 }
 
 .post-header {
@@ -38,6 +48,8 @@ a:hover {
 }
 
 #mainPostList {
+  margin: 0;
+  padding: 0;
   list-style-type: none;
 }
 
