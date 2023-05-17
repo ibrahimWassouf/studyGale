@@ -8,6 +8,12 @@ body {
   background-color: 255 255 255;
   color: black;
   max-width: 38rem;
+  font-family: "Lato";
+  font-size: 22px;
+}
+
+header h1 {
+  font-size: 48px;
 }
 
 a {
@@ -23,8 +29,12 @@ a:hover {
   color: green;
 }
 
-.masthead-hidden {
+.index-header {
   display: none;
+}
+
+.post-header {
+  font-size: 20px;
 }
 
 #mainPostList {
