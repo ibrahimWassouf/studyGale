@@ -1,15 +1,15 @@
 html {
-  margin: 1rem;
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
 }
 
 body {
   background-color: 253 253 253;
-  color: black;
-  max-width: 40rem;
+  margin: 0 auto;
+  padding-left: 1em;
+  max-width: 38rem;
+  color: #003;
   font-family: 'Lato';
   font-size: 22px;
 }
@@ -31,6 +31,37 @@ a:hover {
   display: none;
 }
 
+.main-header {
+  margin-top: 5rem;
+  border-bottom: 1px solid black;
+}
+
+.main-header h1 {
+  font-size: 6rem;
+}
+
+@media(min-width: 38em){
+  body {
+    max-width: 60rem;
+  }
+  .main-header {
+    margin-left: 0;
+    margin-right: auto;
+  }
+}
+
+#mainPostList {
+  margin-top: 5rem;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  padding-bottom: 2rem;
+}
+
+
+/*
 .index-header {
   margin: 5rem 0;
   padding: 5rem 0;
@@ -65,4 +96,4 @@ a:hover {
   padding: 0;
   list-style-type: none;
 }
-
+*/
