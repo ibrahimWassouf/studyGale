@@ -1,21 +1,22 @@
 ---
 title: Study Gale.
 ---
+
 <!--This page hides the default layout header and uses this one instead
     Thus, the default layout header is for any other page to navigate
     back here-->
 <div class="main-header">
   <header class="index-header">
     <h1>{{ page.title }}</h1>
-    <p>A blog with advice and hot takes for Dal CS students. </p>
+    <p>A blog with advice and hot takes for Dal CS students.</p>
   </header>
 </div>
 
 <ul id="mainPostList">
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{post.url | relative_url }}">{{post.title}}</a></h2>
-      {{post.excerpt}}
-    </li>
+  <li>
+    <h2><a href="{{post.url | relative_url }}">{{post.title}}</a></h2>
+    {{post.excerpt | truncate: 300 | strip_headings}}
+  </li>
   {%endfor%}
 </ul>
