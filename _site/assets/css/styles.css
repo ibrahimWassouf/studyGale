@@ -13,7 +13,8 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 22px;
   text-align: justify;
-  text-justify: inter-character;
+  text-justify: auto;
+  hyphens: auto;
 }
 
 a {
@@ -72,9 +73,15 @@ li {
 }
 
 .post-title p {
+  text-justify: none;
   margin: 0;
   padding: 0;
   font-size: 20px;
+}
+
+.post-main {
+  text-align: justify;
+  text-justify: auto;
 }
 
 @media (min-width: 38em) {
@@ -85,6 +92,7 @@ li {
     padding-left: 5rem;
   }
   .post-title {
+    text-justify: none;
     margin-top: 5rem;
   }
 }
