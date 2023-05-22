@@ -7,12 +7,12 @@ html {
 body {
   background-color: 253 253 253;
   margin: 0 auto;
-  padding: 0 1em;
+  padding: 1em 3em;
   max-width: 38rem;
   color: #003;
   font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 22px;
-  width: 420px;
+  min-width: 20rem;
 }
 
 a {
@@ -43,7 +43,7 @@ a:hover {
 
 @media (min-width: 38em) {
   body {
-    max-width: 60rem;
+    max-width: 70rem;
   }
   .main-header {
     margin-left: 0;
