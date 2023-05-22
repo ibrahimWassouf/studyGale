@@ -8,7 +8,6 @@ body {
   background-color: 253 253 253;
   margin: 0 auto;
   padding: 1em 3em;
-  max-width: 38rem;
   color: #003;
   font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 22px;
@@ -75,6 +74,10 @@ li {
   margin: 0;
   padding: 0;
   font-size: 20px;
+}
+
+.post-main {
+  padding-top: 2rem;
 }
 
 @media (min-width: 38em) {
