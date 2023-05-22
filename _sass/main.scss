@@ -13,9 +13,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Segoe UI",
     Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 22px;
-  text-align: justify; 
-  text-justify: auto; 
-	hyphens: auto;
+  width: 420px;
 }
 
 a {
@@ -75,16 +73,14 @@ li {
 }
 
 .post-title p {
-	text-justify: none;
+  text-justify: none;
   margin: 0;
   padding: 0;
   font-size: 20px;
 }
 
 .post-main {
-		text-align: justify;
-		text-justify: auto;
-	}
+}
 
 @media (min-width: 38em) {
   .post-header {
@@ -95,10 +91,9 @@ li {
     padding-left: 5rem;
   }
 
-  .post-title {	
-		text-justify: none;
+  .post-title {
     margin-top: 5rem;
-  }	
+  }
 }
 /*
 .index-header {

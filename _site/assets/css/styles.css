@@ -12,9 +12,7 @@ body {
   color: #003;
   font-family: -apple-system, BlinkMacSystemFont, "Montserrat", "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 22px;
-  text-align: justify;
-  text-justify: auto;
-  hyphens: auto;
+  width: 420px;
 }
 
 a {
@@ -79,11 +77,6 @@ li {
   font-size: 20px;
 }
 
-.post-main {
-  text-align: justify;
-  text-justify: auto;
-}
-
 @media (min-width: 38em) {
   .post-header {
     font-size: 22px;
@@ -92,7 +85,6 @@ li {
     padding-left: 5rem;
   }
   .post-title {
-    text-justify: none;
     margin-top: 5rem;
   }
 }
