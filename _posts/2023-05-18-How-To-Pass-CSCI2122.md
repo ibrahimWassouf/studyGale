@@ -94,31 +94,47 @@ It isn’t uncommon to be assigned whole chapters to be read in conjunction with
 the lectures. This may seem unreasonable, but keep in mind that they are not
 tasking you with reading every word and memorizing it. Reading textbook follow
 a different approach than you would with other mediums like an article or a
-novel.
+novel. We'll talk about two important things to keep in mind when reading the
+textbook.
 
 There are many strategies used that focus on either increasing reading
-comprehension or speed. There are things like using a epub reader and
+comprehension or speed. There are things like using an epub reader and
 increasing the margins to lower the number of saccades your eyes make across
-the page to avoiding internally speaking the words when reading. These sorts of
-hack may or may not work for you, but they are just a google search away if
-you’re interested. You should try them out and figure out what works for you if
-you’d like. However, the most important advice that definitely isn’t hackish is
-to scan through the chapter multiple times before actually reading the book.
-There is a process for this and is easily found online, just google “how to
-read a textbook”. The variations all do the same thing, they develop an outline
-of the content in the chapter before you actually begin reading or
-understanding the material. There are many benefits to this. First, we aren’t
-build to process the unknown very well. When we face a topic that we don’t
-understand (especially when an assessment is coming up) we tend to become
-bogged down by our emotional responses. We may be stressed and
-anxious from the upcoming assessment and are more worried about failing
-than actually learning. If you read a chapter or go through the lecture
-without having a clear idea of what the main topics are, every time you
-encounter a new key term that you don’t know it will elicit a genuine
-fear response in you. This will also allow you to one get a sense of what are
-the most important take-aways from the chapter and help you not get caught up
-in small or irrelevant details. Who knew that the “learning objectives” at the
-start of every chapter is actually useful for something.
+the page and avoiding internally speaking the words when reading. These sorts
+of hacks may or may not work for you, but they are just a google search away if
+you’re interested. However, the most important advice that definitely isn’t
+hackish is to scan through the chapter multiple times before actually reading
+the book. There is a process for this and is easily found online, just google
+“how to read a textbook”. The variations all do the same thing, they develop an
+outline of the content in the chapter before you actually begin understanding
+the material.
+
+There are many benefits to getting a summary of the content before learning.
+First, we aren’t build to process the unknown very well. When we face a topic
+that we don’t understand (especially when an assessment is coming up) we tend
+to become bogged down by our emotional responses. We may be stressed and
+anxious from the upcoming assessment and are more worried about failing than
+actually learning. If you read a chapter or go through the lecture without
+having a clear idea of what the main topics are. Every time you encounter a new
+key term that you don’t know, it will elicit a genuine fear response in you.
+Getting a summary of the content beforehand helps you prepare for what's coming
+so there are no suprises.
+
+Reviewing the content before will also allow you to one get a sense of what are
+the most important take-aways from the chapter and help you avoid getting
+caught up in small or irrelevant details. Who knew that the _learning
+objectives_ at the start of every chapter is actually useful for something.
+
+You should try them out and figure out what works for you if you’d like.ast
+piece of advice for csci2122 specifically, do the textbook questions. This may
+vary slightly depending on the instructor, but it is highly likely that most of
+the questions that come up on the quizzes and assignments will be very similar
+if not idetical to the textbook questions. On most of the quizzes, I landed
+above an A, except for one. For one quiz I didn't have the time to review any
+of the material and ended up getting 22%. When reviewing for the final, I
+realized that every question on that quiz was as close to a copy paste to the
+questions in the textbook. If you think that this indicates that you don't need
+to attend the lectures, reread section 1.
 
 ## Section 3 – How to not fear practicums
 
@@ -131,17 +147,15 @@ means that you’ve actually done the practicum. You need to learn C to move on
 to CSCI3120 and not horribly fail. Second, practicums test a bit about your
 problem solving skills. It won’t be hard and from what I’ve experience it
 shouldn’t be harder than what you’ve been exposed to in the CSCI1110
-practicums. The most
-important skill that you need to ensure that you do well is to know how
-to debug you’re code. Better yet, how to avoid bugs in your code. There
-are classic cases that lead to some hard to solve bugs. I have spent 5
-hours of my life solving a segfault (a type of memory access bug)
-because I accessed a variable that belongs to a null variable. Knowing
-how to properly write Null checks and avoiding common practices that to
-segfaults will help you not waste time debugging during the practicum. A good
-thing to do is learn how to use Valgrind from the start of the semester,
-because you’ll surely run into segfaults way before they teach you how to use
-it.
+practicums. The most important skill that you need to ensure that you do well
+is to know how to debug you’re code. Better yet, how to avoid bugs in your
+code. There are classic cases that lead to some hard to solve bugs. I have
+spent 5 hours of my life solving a segfault (a type of memory access bug)
+because I accessed a variable that belongs to a null variable. Knowing how to
+properly write Null checks and avoiding common practices that to segfaults will
+help you not waste time debugging during the practicum. A good thing to do is
+learn how to use Valgrind from the start of the semester, because you’ll surely
+run into segfaults way before they teach you how to use it.
 
 The best way to prepare for the practicum is to learn how to calm down in a
 stressful situation. If you are faced with a random bug and you have ten
@@ -152,9 +166,9 @@ your way.
 I have heard of some students that choose to do the labs in VSCode instead of
 vim. I think that is a recipe for disaster because you’re essentially avoiding
 all the practice you get from using the vim text editor. There is not much that
-you need to learn how to use it
-effectively, and being comfortable in your testing environment is far
-more important than being comfortable while doing your labs.
+you need to learn how to use it effectively, and being comfortable in your
+testing environment is far more important than being comfortable while doing
+your labs.
 
 Last thing, read the docs. If you’re spending hours trying to figure out a lab,
 just know that all the answers on how to solve the requirements are written
