@@ -137,29 +137,45 @@ to attend the lectures, reread section 1.
 
 ## Section 3 – How to not fear practicums
 
-Honestly, I did not perform the best on the practicums. Although, I can provide
-a story if asked why it is by no means objective, and I don’t have all the
-facts. However, you can learn something from someone’s mistakes, and I’m here to
-tell them. First, it’s good to know what the practicums are intended to test.
-They’re meant to ensure that you know how to code in C and that also means that
-you’ve actually done the practicum. You need to learn C to move on to CSCI3120
-and not horribly fail. Second, practicums test a bit about your problem solving
-skills. It won’t be hard and from what I’ve experience it shouldn’t be harder
-than what you’ve been exposed to in the CSCI1110 practicums. The most important
-skill that you need to ensure that you do well is to know how to debug you’re
-code. Better yet, how to avoid bugs in your code. There are classic cases that
-lead to some hard to solve bugs. I have spent 5 hours of my life solving a
-segfault (a type of memory access bug) because I accessed a variable that
-belongs to a null variable. Knowing how to properly write Null checks and
-avoiding common practices that to segfaults will help you not waste time
+Honestly, I did not perform the best on the practicums. However, you can learn
+something from someone’s mistakes, and I’m here to tell them. First, it’s good
+to know what the practicums are intended to test. They’re meant to ensure that
+you know how to code in C, and that also means that you’ve actually completed
+the labs. Second, practicums test a bit about your problem solving skills. The
+tasks asked in the practicum shouldn't be that big of a leap compared to what
+you've done in the labs. This generally means that if you've completed the labs
+then you're ready to go.
+
+I will take a moment to address an important topic:
+students are experts at lying to themselves. It's very easy to look at material
+that you've just read and say "That's easy to understand, I'm sure I'll remember
+it for the exam." -- you won't. Always test yourself on the material to ensure
+that you truly remember things. I found myself stuck during the practicum,
+because I kept getting syntax errors when accessing elements in an array. Sounds
+dead simple, but the problem was that I always reviewed my notes right when I
+encountered a syntax error and never remembered the compiler message and why it
+occured. When you're doing the lab you have your notes and the internet to fall
+back on to understand error codes, debugging the problem quickly makes it harder
+to remember for later. In the practicum, you won't have anything but
+the compiler messages.
+
+Speaking of compiler messages, the most important skill that you need to ensure
+that you do well is to know how to debug you’re code. Better yet, how to avoid
+bugs in your code. There are classic cases that lead to some hard to solve bugs.
+I have spent 5 hours of my life solving a segfault (a type of memory access bug)
+because I was checking if a variable's field was null and then whether the
+variable itself was null. When the variable is null, I first check it's field,
+leading to a compile-time error. Knowing how to properly write Null checks and
+avoiding common practices that lead to segfaults will help you not waste time
 debugging during the practicum. A good thing to do is learn how to use Valgrind
-from the start of the semester, because you’ll surely run into segfaults
-way before they teach you how to use it.
+from the start of the semester, because you’ll surely run into segfaults way
+before they teach you how to use it.
 
 The best way to prepare for the practicum is to learn how to calm down in a
 stressful situation. If you are faced with a random bug and you have ten minutes
 left in your practicum. Not being frantic and removing tunnel vision when you’re
-reviewing your code will be necessary to fix any issues that come your way.
+reviewing your code will be necessary to fix any issues that come your way. If
+this happens, don't be afraid to ask one of the TAs for help!
 
 I have heard of some students that choose to do the labs in VSCode instead of
 vim. I think that is a recipe for disaster because you’re essentially avoiding
