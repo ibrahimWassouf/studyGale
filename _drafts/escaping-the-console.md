@@ -53,3 +53,8 @@ thing would stop functioning. This is because I did not really know what
 I was doing. I was just mashing things together that I got from the
 documents, hoping it would work. Don't just get good at using a tool,
 get good at understanding the underlying mechanisms that make it work.
+
+Anyhow, get familiar with the package/dependency manager of your
+language of choice and search to see if there are any popular frameworks or
+libraries used in your field of interest. Install a few, read their
+documentatioin, and get to coding.
