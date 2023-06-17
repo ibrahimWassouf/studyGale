@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Pass CSCI2122
+title: How to pass CSCI2122
 ---
 
 The Systems Programming course is often labelled as the hardest course
