@@ -32,9 +32,9 @@ ground. For example, a very basic thing you will need is a server, a
 local one to use for development rather than hosting. Do you know how to
 make a local server? I sure don't. Maybe we'll both figure it out in the
 future. In the meantime, we'll use software that was already created to
-quickly achieve our short-term goal of creating small side projects. As
-time goes on, hopefully the long-term goal is to turn all that seems
-like magic into abstractions.
+quickly achieve our short-term goal of creating small side projects.
+Hopefully the long-term goal is to turn all that seems like magic into
+abstractions.
 
 Starting out you'll heavily rely on frameworks and libraries
 specifically designed to tackle a problem. For example, I used the
@@ -57,13 +57,13 @@ documents, hoping it would work. Don't just get good at using a tool,
 get good at understanding the underlying mechanisms that make it work.
 
 Anyhow, get familiar with the package/dependency manager of your
-language of choice and search to see if there are any popular frameworks or
-libraries used in your field of interest. Install a few, read their
+language of choice and search to see if there are any popular frameworks
+or libraries used in your field of interest. Install a few, read their
 documentatioin, and get to coding.
 
 ## Tutorial Hell is real
 
-It's hard to come up good ideas for projects. In all honesty, I don't
+It's hard to come up with good ideas for projects. In all honesty, I don't
 think most beginners will come up with any good ideas for their first
 few side projects, that's fine.
 
@@ -71,7 +71,7 @@ I've seen suggestions online that say to just follow a tutorial of
 something interesting and call it a day. This is ok if you're still
 learning the language, framework, or library. The problem in following
 tutorials, however, is that you only learn on a shallow level, and it
-doesn't look that good on a resume, either. That said, not everything
+doesn't look that good on a resume either. That said, not everything
 you do has to be done towards crafting a great resume.
 
 Following tutorials helps get a quick glance at what's possible and the
@@ -79,7 +79,7 @@ workflow of the tools you're working with. However, being hand-held and
 guided through the process of building something stops you from
 formulating a mental model of how the language or framework you are
 using actually works. You're missing out on the entire decision making
-process, as in, when you are faced with a problem "How do I achieve
+process. When you are faced with a problem such as "How do I achieve
 XYZ?" You do not have to find a solution; it's already in the tutorial
 for you. If you're just starting out, maybe pick up a tutorial-styled
 book. I used "Django for beginners" by William Vincent. Afterwards, I
@@ -91,14 +91,14 @@ and what you can gather from the documentation and searching
 debugging-styled questions. In doing so, you will be -- either
 explicitly or implicitly -- forming a mental model of how the tool you
 are using works. You will then write code based on your mental model. If
-it works, then your mental model is correct (or hasn't lead you to an
+it works, then your mental model is correct (or hasn't led you to an
 error yet). If it doesn't work, then your mental model is incorrect, and
 you're left with the task of figuring out what's wrong. When you go
 through the trials and tribulations of figuring out why, you're likely
 (if you've been paying attention) to come out with a better
-understanding of how whatever it is that you're using to work. That is,
-a better mental model of your tool. This is not something that you gain
-from following a predefined tutorial.
+understanding of how whatever it is that you're using works. That is, a
+better mental model of your tool. This is not something that you gain
+from following a predefined problem in a tutorial.
 
 ## When inspiration runs dry
 
@@ -134,14 +134,14 @@ The amount of time I've wasted on thinking of how to do something right
 on the first try. Avoid that at all cost. Trust me, you'll gain nothing
 from overthinking about what frameworks to use or what things to learn
 first. As a student you're better off studying all aspects of computer
-science and getting exposure to all fields in this is a test software
-development. It's not a waste of time to try something and learn that
-you hate it. better to know now than two years into your career.
+science and getting exposure to all fields in software development. It's
+not a waste of time to try something and learn that you hate it; better
+to know now than two years into your career.
 
 If you think about it trying to get things right early on is a
 [premature optimization](https://www.youtube.com/watch?v=74RdET79q40).
-Instead of getting started and learning the fundamentals you're spending
-time worrying about insignificants things that won't matter in the
+Instead of getting started and learning the fundamentals, you're spending
+time worrying about insignificant things that won't matter in the
 future, since you're still just a beginner. Consider this when you come
 across sites online that suggest it's useless to use languages or
 frameworks that are old or not popular anymore. Skills transfer, and
