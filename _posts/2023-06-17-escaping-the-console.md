@@ -59,7 +59,7 @@ get good at understanding the underlying mechanisms that make it work.
 Anyhow, get familiar with the package/dependency manager of your
 language of choice and search to see if there are any popular frameworks
 or libraries used in your field of interest. Install a few, read their
-documentatioin, and get to coding.
+documentation, and get to coding.
 
 ## Tutorial Hell is real
 
@@ -118,7 +118,7 @@ skill, behaviour, or technology that we aren't familiar with and
 practice it.
 
 As an example, you may start with typing up a simple static website
-using HTML, CSS, and Javascript. Next, you may want to challenge
+using HTML, CSS, and JavaScript. Next, you may want to challenge
 yourself with creating a more dynamic, yet still technically static
 website. With a bit of searching, you'll find that using a templating
 language is great for this. Next, you'll try to create a truly dynamic
@@ -150,5 +150,5 @@ you wherever you may end up.
 
 Time is the only currency we have no control over, and hard work is the
 only currency we have full control over. Don't worry about the
-acceration of your learning. Instead, just make sure that you invest
+acceleration of your learning. Instead, just make sure that you invest
 some energy into trying your best, because that's hard work.
