@@ -42,7 +42,7 @@ Django web framework to create my first "full-stack website" (it didn't
 do much other than CRUD operations). It's a batteries included
 framework, meaning that it provides many solutions that you may use
 during development, built right into the framework itself. For example,
-it automatically creates an admin page for your website, has it's own
+it automatically creates an admin page for your website, has its own
 ORM software to query your database with Python rather than SQL, and so
 on. You too will most likely rely on many frameworks, libraries, and
 projects to build whatever it is that you are building.
@@ -78,7 +78,7 @@ Following tutorials helps get a quick glance at what's possible and the
 workflow of the tools you're working with. However, being hand-held and
 guided through the process of building something stops you from
 formulating a mental model of how the language or framework you are
-using actually works. You're missing out on the entire decision making
+using actually works. You're missing out on the entire decision-making
 process. When you are faced with a problem such as "How do I achieve
 XYZ?" You do not have to find a solution; it's already in the tutorial
 for you. If you're just starting out, maybe pick up a tutorial-styled
@@ -104,7 +104,7 @@ from following a predefined problem in a tutorial.
 
 So, we're at the main problem: we don't want to just follow a tutorial,
 but we don't have original ideas for a side project; what to do? The
-cliche, but valid, advice is to introspect and find out any problems
+cliché, but valid, advice is to introspect and find out any problems
 that you face and devise a solution for your problems and code it. I
 found that most problems I can think of are hard problems, hence why
 there isn't already a solution for it, and I don't have the skills yet
