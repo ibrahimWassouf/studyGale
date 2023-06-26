@@ -80,6 +80,7 @@ li {
 .post-main {
   padding-top: 2rem;
   margin-bottom: 5rem;
+  line-height: 1.6rem;
 }
 
 @media (min-width: 38em) {
@@ -88,7 +89,8 @@ li {
   }
 
   .post-body {
-    padding-left: 5rem;
+    margin: auto;
+    max-width: 50rem;
   }
 
   .post-title {
