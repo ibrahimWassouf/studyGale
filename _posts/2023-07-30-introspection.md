@@ -1,6 +1,5 @@
 ---
 title: Introspection alleviates mindless learning
-date: 2023-06-24
 ---
 
 Let's begin with defining what mindless learning is. For this blog, I'll
@@ -9,11 +8,11 @@ a new skill or perspective. The problem with focusing on finishing a
 task, rather than actually learning from it, is that you are left with
 nothing but the empty claim "I have completed this course, degree,
 certificate, etc." What people often miss is that such claims are
-heuristics to indicating that you hold a certain skills or knowledge on
-a subject. The hope is that by going through a course or degree, you
+heuristics to indicating that you hold a certain skills or knowledge in
+a subject. The hope is that, by going through a course or degree, you
 have either implicitly or explicitly acquired the important bits from
-them. Mindless learning is worrying more about taking actions associated
-with learning, than actually learning itself.
+them. Thus, the course itself is not what's important, but what you take
+with you afterwards.
 
 Every student has completed a course only to forget everything once the
 final is submitted. This become an issue when it occurs for more often
@@ -57,7 +56,7 @@ would a picture of something. Sometimes, it can be as simple as a list
 of steps that you take to reach from the starting state to the end
 state. For example, I usually know when I have a question down, whether
 it be to code a data-structure or solve a floating point number
-conversion by being able to see the steps that I have to take from the
+conversion, when I'm able to see the steps that I have to take from the
 very beginning till the very end where I have derived my answer. Take
 the time to really discern when you feel like you really know a topic
 versus when topics feel a little fuzzy.
