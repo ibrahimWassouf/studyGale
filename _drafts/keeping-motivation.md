@@ -33,14 +33,16 @@ out, they will most likely pose questions to students throughout the
 lecture. Just answer them, it doesn't have to be correct or even close,
 it just has to be a genuine effort. Profs often take note of the
 students that are taking part in lecture, because they'll assume that
-they're genuinely trying when they need help during office hours. Also,
-this means that they'll drop hints throughout the semester to reward
-students for actually taking the time to come to class. This can be
-anything from what's coming on the assessments, unique ways to think
-about a problem and deriving a solution, and additional resources that
-you may not have come across otherwise.
+they're genuinely trying when they need help during office hours. If you
+seriously can't fathom speaking up in class, sitting consistently in the
+front of the class will work as well. Also, this means that they'll drop
+hints throughout the semester to reward students for actually taking the
+time to come to class. This can be anything from what's coming on the
+assessments, unique ways to think about a problem and deriving a
+solution, and additional resources that you may not have come across
+otherwise.
 
-There is one thing that is not talked about, but I truly believe exists
+There is one thing that is not talked about, but I truly believe exists,
 and that's student comradery. Going to class on a regular schedule means
 that you're seeing the same faces regularly. Even if you never speak to
 each other you are becoming aware of each other's existence. If you
@@ -88,9 +90,21 @@ have a question regarding the course policies, make sure to check the
 syllabus first to get the quickest possible answer and not waste your
 own time. Show that you've done the work beforehand.
 
-## To conclude...
+## Take note(s)...
 
-The things that have helped me the most are to go to class and office
+When in class, I always prefer to take notes with pen and paper. It is
+just simpler. There are no distractions, and it forces you to pay
+attention to what is being discussed in class. You shouldn't be keeping
+note of every word being spoken. Instead, I keep notes about the
+*lecture* not what is being *lectured*. For example, what did we spend
+most of our time on? Was there any topic in the lecture that the
+professor seemed to really stress on? Etc. Taking notes and thinking
+about what you should be taking notes on mean that you're actively
+engaging in class. If you go to class and simply watch a stream of a
+chess match, I'm sorry to say but I don't think you'll gain any of the
+benefits one would expect from this advice...
+
+To conclude, the things that have helped me the most are to go to class and office
 hours regularly. I'm sure it sounds dumb to some, but these are the two
 things that ensure that you get exposure to the material more than once
 before you even begin studying for an assessment. It also helps build
