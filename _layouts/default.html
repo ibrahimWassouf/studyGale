@@ -10,13 +10,17 @@
 
   <body>
     <div class="masthead">
-      <h1 {% if page.name == 'index.html' %}
-            class="hidden-header"
-	        {% endif %}
-	        class="post-header"
+      <h1 
+        {% if page.name == 'index.html' %}
+          class="hidden-header"
+	      {% endif %}
+	      class="post-header"
       >
         <a href="{{site.baseurl}}/" title="Home">Study Gale.</a>
       </h1>
+      <div class="button-div" role="button">
+        <div class="moon"></div>
+      </div>
     </div>
     {{content}}
   </body>
